@@ -14,7 +14,7 @@
 <hr>
 
 ## Hosting
-<p>ShareBinApp is currently powered by Ezrinix, LLC. They provide reliable hosting services for our CodeBin website and many other services. We recommend checking them out if you are looking for a reliable hosting provider. You can find more information about this by clicking on the "Powered by Ezrinix" button below.</p>
+<p>ShareBin is currently powered by Ezrinix, LLC. They provide reliable hosting services for our ShareBin website and many other services. We recommend checking them out if you are looking for a reliable hosting provider. You can find more information about this by clicking the "Powered by Ezrinix" button below.</p>
 
 <a href="https://ezrinix.com" target="_blank"><img src="https://ezrinix.network/images/Powered-By-Ezrinix.png" width="176" height="60" alt="Powered by Ezrinix Logo"></img></a>
 

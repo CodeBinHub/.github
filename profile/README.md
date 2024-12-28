@@ -1,8 +1,6 @@
-﻿<img src="https://i.imgur.com/h6nrOAT.png"></img>
-
 <hr>
 
-<p>Code Bin is the ultimate platform for effortlessly sharing, managing, and personalizing your code snippets with friends and colleagues.</p>
+<p>Share Bin is the ultimate platform for effortlessly sharing, managing, and personalizing your code snippets with friends and colleagues.</p>
 
 <hr>
 
@@ -16,7 +14,7 @@
 <hr>
 
 ## Hosting
-<p>CodeBin is currently powered by Ezrinix, LLC. They provide realiable hosting services for our CodeBin website and many other services. If you are looking for a reliable hosting provider, we recommend checking them out. You can find more information about by clicking on the "Powered by Ezrinix" button below.</p>
+<p>CodeBin is currently powered by Ezrinix, LLC. They provide reliable hosting services for our CodeBin website and many other services. We recommend checking them out if you are looking for a reliable hosting provider. You can find more information about this by clicking on the "Powered by Ezrinix" button below.</p>
 
 <a href="https://ezrinix.com" target="_blank"><img src="https://ezrinix.network/images/Powered-By-Ezrinix.png" width="176" height="60" alt="Powered by Ezrinix Logo"></img></a>
 
